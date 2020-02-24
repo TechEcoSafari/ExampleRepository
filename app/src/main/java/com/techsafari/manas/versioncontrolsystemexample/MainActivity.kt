@@ -9,5 +9,6 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
         Log.d("Initial Commit", "commit")
+        Log.i("I am good at Kotlin", "Yes, I am good!")
     }
 }
